@@ -1,0 +1,977 @@
+{
+  "general_info": {
+    "name": "SMK Aukštoji mokykla",
+    "short_name": "SMK",
+    "website": "https://smk.lt/",
+    "about_url": "https://smk.lt/apiemus/",
+    "description": "SMK yra viena didžiausių privačių aukštojo mokslo institucijų Lietuvoje. Studijos orientuotos į praktinius įgūdžius, realią darbo rinką ir profesinį pasirengimą.",
+    "founded": "1994",
+    "cities": [
+      "Vilnius",
+      "Kaunas",
+      "Klaipėda"
+    ],
+    "study_fields": [
+      "Informatika",
+      "Verslas",
+      "Socialiniai mokslai",
+      "Menas",
+      "Sveikatos mokslai"
+    ]
+  },
+  "study_modes": [
+    {
+      "code": "NL",
+      "name": "Nuolatinis (dieninis)",
+      "description": "Nuolatinės studijų formos studijos, kai paskaitos organizuojamos darbo dienomis pagal numatytą tvarkaraštį.",
+      "duration": "3 arba 3.5 metų"
+    },
+    {
+      "code": "NS",
+      "name": "Nuolatinis (sesijinis)",
+      "description": "Nuolatinės studijų formos studijos, kai paskaitos organizuojamos sesijomis.",
+      "duration": "3 arba 3.5 metų"
+    }
+  ],
+  "admission": {
+    "main_url": "https://smk.lt/stojimas/",
+    "admission_info_url": "https://smk.lt/priemimas/",
+    "international_admission_url": "https://smk.lt/en/admission/",
+    "summary": "Stojantieji gali teikti prašymus per SMK priėmimo portalą arba atvykę į priėmimo komisiją. SMK vykdo atskirąjį priėmimą į mokamas studijų vietas.",
+    "registration_fee": "70 EUR",
+    "separate_admission_period": {
+      "start": "2026-03-01",
+      "end": "2026-09-25"
+    },
+    "spring_admission_period": {
+      "start": "2026-10-15",
+      "end": "2027-02-01"
+    },
+    "application_methods": [
+      "Internetu per SMK priėmimo portalą",
+      "Atvykus į SMK priėmimo komisiją"
+    ],
+    "basic_requirements": [
+      "Vidurinis išsilavinimas arba jam prilygintas išsilavinimas",
+      "Atitikti minimalius stojimo reikalavimus",
+      "Pateikti stojimui reikalingus dokumentus"
+    ],
+    "notes": [
+      "Stojantiesiems taikomas motyvacijos studijuoti ir pasirengimo vertinimas.",
+      "Menų krypčių studijoms gali būti taikomas stojamasis egzaminas.",
+      "Tikslias priėmimo sąlygas, dokumentus ir terminus rekomenduojama tikrinti oficialioje SMK svetainėje."
+    ]
+  },
+  "required_documents": [
+  "Prašymas studijuoti",
+  "Paso arba asmens tapatybės kortelės kopija",
+  "Brandos atestato ir priedų kopija",
+  "Pažymos apie perlaikytus ar papildomai laikytus brandos egzaminus, jei reikia",
+  "Diplomo ir priedo kopija, jei asmuo yra baigęs profesinę, aukštesniąją ar aukštąją mokyklą",
+  "Dokumentai dėl papildomų balų, jei taikoma",
+  "Pavardės keitimą patvirtinantis dokumentas, jei taikoma",
+  "Tarptautinio užsienio kalbos egzamino sertifikatas, jei taikoma",
+  "Stojamosios registracijos įmokos kvito kopija"
+],
+"motivation_evaluation": {
+  "required_for_some_applicants": true,
+  "summary": "Motyvacijos vertinimas vyksta pokalbio forma. Jį rekomenduojama atlikti visiems stojantiesiems.",
+  "registration": "Registruojamasi per SMK motyvacijos vertinimo registracijos anketą.",
+  "period": {
+    "start": "2026-03-01",
+    "end": "2026-09-25"
+  }
+},
+"fee_discount_note": "Stojamoji registracijos įmoka gali būti mažinama 50 proc. negalią turintiems asmenims iki 45 proc. dalyvumo lygio ir našlaičiams.",
+"higher_course_admission": {
+  "available": true,
+  "summary": "Asmenys po studijų nutraukimo, iš kitų aukštųjų mokyklų, po profesinės mokyklos ar po trumpojo ciklo studijų gali būti priimami į aukštesnius kursus konkurso būdu."
+},
+  "contacts": {
+  "main_contact_page": "https://smk.lt/kontaktai/",
+  "general_email": "info@smk.lt",
+  "admission_email": "priemimas@smk.lt",
+  "admission_contacts_note": "Priėmimo komisijos darbo dienomis dirba nuo 9:00 iki 17:00.",
+  "cities": [
+    {
+      "city": "Klaipėda",
+      "address": "Liepų g. 83B",
+      "phones": ["+370 601 74830"],
+      "emails": ["priemimas@smk.lt", "info@smk.lt"],
+      "url": "https://smk.lt/klaipeda/"
+    },
+    {
+      "city": "Vilnius",
+      "address": "Kalvarijų g. 137E",
+      "phones": ["+370 604 73280", "+370 602 28237", "+370 601 78186"],
+      "emails": ["priemimas@smk.lt", "vilnius@smk.lt"],
+      "url": "https://smk.lt/vilnius/"
+    },
+    {
+      "city": "Kaunas",
+      "address": "Vilties g. 2",
+      "phones": ["+370 604 73638", "+370 601 78253"],
+      "emails": ["priemimas@smk.lt", "kaunas@smk.lt"],
+      "url": "https://smk.lt/kaunas/"
+    }
+  ]
+},
+  "student_resources": [
+    {
+      "name": "Studentams",
+      "url": "https://smk.lt/studentams/",
+      "description": "Pagrindinis puslapis studentams su svarbia studijų informacija ir nuorodomis."
+    },
+    {
+      "name": "Informacija studentams",
+      "url": "https://smk.lt/informacija-studentams/",
+      "description": "Praktinė informacija apie studijų organizavimą, taisykles ir akademinius reikalavimus."
+    },
+    {
+      "name": "Studijų dokumentai",
+      "url": "https://smk.lt/studiju-dokumentai/",
+      "description": "Oficialūs reglamentai, tvarkos aprašai ir kiti studijų dokumentai."
+    },
+    {
+      "name": "Erasmus+",
+      "url": "https://smk.lt/studentams/erasmus/",
+      "description": "Studijų ir praktikos mainų galimybės užsienyje."
+    },
+    {
+      "name": "Karjeros centras",
+      "url": "https://smk.lt/studentams/karjera/",
+      "description": "Karjeros konsultacijos, praktikos ir darbo galimybės."
+    },
+    {
+      "name": "Hey Ready",
+      "url": "https://heyready.smk.lt/",
+      "description": "SMK karjeros platforma studentams."
+    },
+    {
+      "name": "Moodle",
+      "url": "https://moodle.smk.lt/",
+      "description": "Virtuali mokymosi sistema su studijų medžiaga ir užduotimis."
+    },
+    {
+      "name": "Classter",
+      "url": "https://studentams.smk.lt/",
+      "description": "Studentų informacinė sistema su pažymiais, tvarkaraščiais ir kita akademine informacija."
+    },
+    {
+      "name": "Elektroninė biblioteka",
+      "url": "https://biblioteka.smk.lt/",
+      "description": "Elektroninė prieiga prie mokslinių šaltinių ir studijų literatūros."
+    },
+    {
+      "name": "Studentų gerovė",
+      "url": "https://smk.lt/studentams/studentu-gerove/",
+      "description": "Psichologinė pagalba, konsultacijos ir gerovės iniciatyvos."
+    },
+    {
+      "name": "Stipendijos",
+      "url": "https://smk.lt/studentams/stipendijos/",
+      "description": "Informacija apie stipendijas ir finansinę paramą studentams."
+    }
+  ],
+  "english_pages": [
+    {
+      "name": "SMK English main page",
+      "url": "https://smk.lt/en/",
+      "description": "Angliška SMK svetainės versija tarptautiniams studentams."
+    },
+    {
+      "name": "About SMK",
+      "url": "https://smk.lt/en/about-smk/",
+      "description": "Informacija apie SMK anglų kalba."
+    },
+    {
+      "name": "Study programmes",
+      "url": "https://smk.lt/en/study-programmes/",
+      "description": "Anglų kalba siūlomų studijų programų sąrašas."
+    },
+    {
+      "name": "Admission",
+      "url": "https://smk.lt/en/admission/",
+      "description": "Stojimo informacija tarptautiniams studentams."
+    },
+    {
+      "name": "For students",
+      "url": "https://smk.lt/en/for-students/",
+      "description": "Informacija tarptautiniams studentams apie studijų procesą ir gyvenimą Lietuvoje."
+    }
+  ],
+  "useful_pages": [
+    {
+      "name": "Pagrindinis puslapis",
+      "url": "https://smk.lt/",
+      "description": "Pagrindinis SMK aukštosios mokyklos puslapis."
+    },
+    {
+      "name": "Apie SMK",
+      "url": "https://smk.lt/apiemus/",
+      "description": "Informacija apie SMK veiklą, istoriją ir studijų kryptis."
+    },
+    {
+      "name": "Studijų programos",
+      "url": "https://smk.lt/studiju-programos/",
+      "description": "Visų SMK studijų programų sąrašas."
+    },
+    {
+      "name": "Stojimas",
+      "url": "https://smk.lt/stojimas/",
+      "description": "Pagrindinis stojimo puslapis."
+    },
+    {
+      "name": "Priėmimas",
+      "url": "https://smk.lt/priemimas/",
+      "description": "Išsami priėmimo informacija."
+    },
+    {
+      "name": "Naujienos",
+      "url": "https://smk.lt/naujienos/",
+      "description": "SMK naujienos."
+    },
+    {
+      "name": "Renginiai",
+      "url": "https://smk.lt/renginiai/",
+      "description": "Planuojami renginiai, seminarai ir konferencijos."
+    },
+    {
+      "name": "Partneriai",
+      "url": "https://smk.lt/partneriai/",
+      "description": "Bendradarbiavimo partneriai."
+    },
+    {
+      "name": "Tarptautiniai partneriai",
+      "url": "https://smk.lt/tarptautiniai-partneriai/",
+      "description": "Tarptautinis bendradarbiavimas."
+    },
+    {
+      "name": "Projektai",
+      "url": "https://smk.lt/projektai/",
+      "description": "SMK projektai ir iniciatyvos."
+    },
+    {
+      "name": "Kontaktai",
+      "url": "https://smk.lt/kontaktai/",
+      "description": "Kontaktai ir padalinių informacija."
+    },
+    {
+      "name": "Privatumo politika",
+      "url": "https://smk.lt/privatumo-politika/",
+      "description": "Informacija apie duomenų tvarkymą ir privatumo politiką."
+    }
+  ],
+  "programs": [
+          {
+      "name": "Ateities verslas ir dirbtinis intelektas",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas / Technologijos",
+      "description": "Studijų programa jungianti verslo kūrimą, inovacijas ir dirbtinio intelekto taikymą."
+    },
+    {
+      "name": "Gyvenimo kokybės vadyba",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas / Paslaugos",
+      "description": "Programa orientuota į gyvenimo kokybės, paslaugų ir klientų patirties valdymą."
+    },
+    {
+      "name": "Informacijos ir kibernetinė sauga",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Informatika / Kibernetinis saugumas",
+      "description": "Studijų programa apie informacijos apsaugą, saugumo principus ir kibernetinių grėsmių valdymą."
+    },
+    {
+      "name": "Kūrybinis rašymas ir komunikacija",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Komunikacija",
+      "description": "Programa apie tekstų kūrimą, komunikaciją ir kūrybinį turinį."
+    },
+    {
+      "name": "Kūrybos ir mados vadyba",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Mada / Kūrybinės industrijos",
+      "description": "Studijos apie kūrybinių projektų, mados ir prekės ženklo valdymą."
+    },
+    {
+      "name": "Mados ir stiliaus vadyba",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Mada / Kūrybinės industrijos",
+      "description": "Programa apie stiliaus formavimą, mados industriją ir vadybinius sprendimus."
+    },
+    {
+      "name": "Organizacijų tvarumas ir inovacijos",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Studijų programa apie tvarumą, inovacijų diegimą ir organizacijų vystymą."
+    },
+    {
+      "name": "Organizacijų vadyba ir lyderystė",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Programa apie vadybą, lyderystę ir komandų valdymą."
+    },
+    {
+      "name": "Projektų vadyba",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Studijos apie projektų planavimą, valdymą ir įgyvendinimą."
+    },
+    {
+      "name": "Renginių prodiusavimas",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Komunikacija / Kūrybinės industrijos",
+      "description": "Programa apie renginių organizavimą, prodiusavimą ir komunikaciją."
+    },
+    {
+      "name": "Skaitmeninio turinio kūrimas",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Komunikacija / Medijos",
+      "description": "Studijų programa apie turinio kūrimą skaitmeninėms platformoms."
+    },
+    {
+      "name": "Transporto ir logistikos verslas",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas / Logistika",
+      "description": "Programa apie transporto sistemas, logistikos organizavimą ir verslo procesus."
+    },
+    {
+      "name": "Verslo kūrimas ir valdymas",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Studijų programa apie verslo kūrimą, vystymą ir valdymą."
+    },
+    {
+      "name": "Video kūryba ir medijos",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Menai / Medijos",
+      "description": "Menų krypties programa apie video kūrybą, medijas ir kūrybinių darbų portfolio."
+    },
+    {
+      "name": "Vizualinis dizainas",
+      "url": "https://smk.lt/studiju-programos/",
+      "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+      "language": "LT",
+      "field": "Menai / Dizainas",
+      "description": "Menų krypties studijų programa apie vizualinį dizainą, kūrybinius darbus ir portfolio."
+    },
+    {
+      "name": "Teisė",
+      "url": "https://smk.lt/studiju-programos/teise/",
+      "city_options": [
+        "Vilnius",
+        "Kaunas",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Socialiniai mokslai",
+      "description": "Studijų programa skirta teisinių žinių ir praktinių teisinio darbo įgūdžių įgijimui."
+    },
+    {
+      "name": "Finansų ir investicijų valdymas",
+      "url": "https://smk.lt/studiju-programos/finansai-ir-investiciju-valdymas/",
+      "city_options": [
+        "Vilnius",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Programa orientuota į finansų rinkas, investavimą, rizikos vertinimą ir verslo analizę."
+    },
+    {
+      "name": "Tarptautinis verslas",
+      "url": "https://smk.lt/studiju-programos/tarptautinis-verslas/",
+      "city_options": [
+        "Vilnius",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Studijų programa apie verslo plėtrą tarptautinėje aplinkoje, rinkų analizę ir strateginius sprendimus."
+    },
+    {
+      "name": "Tarptautinė prekyba ir muitinės logistika",
+      "url": "https://smk.lt/studiju-programos/tarptautine-prekyba-ir-muitines-logistika/",
+      "city_options": [
+        "Vilnius",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Programa orientuota į logistiką, muitinės procedūras, prekybos organizavimą ir tiekimo grandines."
+    },
+    {
+      "name": "Marketingas ir reklamos kūrimas",
+      "url": "https://smk.lt/studiju-programos/marketingas-ir-reklamos-kurimas/",
+      "city_options": [
+        "Vilnius",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Komunikacija",
+      "description": "Studijų metu nagrinėjamos reklamos strategijos, prekės ženklo kūrimas, rinkos analizė ir skaitmeninė komunikacija."
+    },
+    {
+      "name": "Turizmas ir poilsis",
+      "url": "https://smk.lt/studiju-programos/turizmas-ir-poilsis/",
+      "city_options": [
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Programa apie turizmo rinką, paslaugų organizavimą, klientų aptarnavimą ir turizmo verslo valdymą."
+    },
+    {
+      "name": "Restoranų ir viešbučių vadyba",
+      "url": "https://smk.lt/studiju-programos/restoranu-ir-viesbuciu-vadyba/",
+      "city_options": [
+        "Vilnius",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Verslas",
+      "description": "Studijos apie svetingumo industriją, maitinimo ir apgyvendinimo verslo organizavimą bei klientų aptarnavimą."
+    },
+    {
+      "name": "Programavimas ir multimedija",
+      "url": "https://smk.lt/studiju-programos/programavimo-studijos-ir-multimedija/",
+      "city_options": [
+        "Vilnius",
+        "Kaunas"
+      ],
+      "language": "LT",
+      "field": "Informatika",
+      "description": "Programa orientuota į programavimo pagrindus, programinės įrangos kūrimą, multimediją ir skaitmenines technologijas."
+    },
+    {
+      "name": "Kompiuteriniai žaidimai ir animacija",
+      "url": "https://smk.lt/studiju-programos/kompiuteriniai-zaidimai-ir-animacija/",
+      "city_options": [
+        "Vilnius",
+        "Kaunas"
+      ],
+      "language": "LT",
+      "field": "Informatika / Kūrybinės technologijos",
+      "description": "Studijos apie žaidimų kūrimą, 3D modeliavimą, animaciją ir skaitmeninės medijos technologijas."
+    },
+    {
+      "name": "Skaitmeninė komunikacija",
+      "url": "https://smk.lt/studiju-programos/skaitmenine-komunikacija/",
+      "city_options": [
+        "Vilnius",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Komunikacija",
+      "description": "Programa apie turinio kūrimą, auditorijų analizę ir komunikacijos strategijas skaitmeninėje erdvėje."
+    },
+    {
+      "name": "Bendrosios praktikos slauga",
+      "url": "https://smk.lt/studiju-programos/bendrosios-praktikos-slauga/",
+      "city_options": [
+        "Vilnius",
+        "Kaunas",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Sveikatos mokslai",
+      "description": "Studijų programa apie pacientų priežiūrą, sveikatos priežiūros procesus, medicinos pagrindus ir profesinę etiką."
+    },
+    {
+      "name": "Estetinė kosmetologija",
+      "url": "https://smk.lt/studiju-programos/estetine-kosmetologija/",
+      "city_options": [
+        "Vilnius",
+        "Kaunas",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Sveikatos mokslai",
+      "description": "Studijos apie odos priežiūros procedūras, kosmetologijos technologijas ir grožio paslaugų organizavimą."
+    },
+    {
+      "name": "Bakalauro studijos po profesinio mokymo",
+      "url": "https://smk.lt/studiju-programos/bakalauro-studijos-po-profesinio-mokymo/",
+      "city_options": [
+        "Vilnius",
+        "Kaunas",
+        "Klaipėda"
+      ],
+      "language": "LT",
+      "field": "Tęstinės studijos",
+      "description": "Galimybė tęsti studijas po profesinio mokymo ir kai kuriais atvejais studijuoti trumpiau."
+    }
+  ],
+  "english_programmes": [
+    {
+      "name": "International Business",
+      "url": "https://smk.lt/en/study-programmes/",
+      "language": "EN",
+      "description": "Tarptautinio verslo krypties studijų programa anglų kalba."
+    },
+    {
+      "name": "Programming and Multimedia",
+      "url": "https://smk.lt/en/study-programmes/",
+      "language": "EN",
+      "description": "IT krypties studijų programa anglų kalba."
+    },
+    {
+      "name": "Digital Communication",
+      "url": "https://smk.lt/en/study-programmes/",
+      "language": "EN",
+      "description": "Komunikacijos krypties studijų programa anglų kalba."
+    },
+    {
+      "name": "Computer Games and Animation",
+      "url": "https://smk.lt/en/study-programmes/",
+      "language": "EN",
+      "description": "Kūrybinių technologijų studijų programa anglų kalba."
+    }
+  ],
+  "faq": [
+        {
+      "question": "Kiek kainuoja studijos SMK?",
+      "answer": "Studijų kainos priklauso nuo programos. Daugumos lietuvių kalba dėstomų programų metinė kaina yra 2850 Eur, kai kurių – 2900 Eur, 3350 Eur arba 3650 Eur.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Ar SMK turi trumpąsias studijas?",
+      "answer": "Taip, SMK vykdo trumpąsias studijas, pavyzdžiui Programavimą, Programinės įrangos testavimą ir Kelionių vadovo programą.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Ar SMK vykdo profesinį mokymą?",
+      "answer": "Taip, SMK vykdo profesinį mokymą IT, grožio ir sveikatos bei verslo vadybos srityse.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Kur rasti priėmimo komisijos kontaktus?",
+      "answer": "Priėmimo komisijos kontaktai nurodomi Klaipėdai, Vilniui ir Kaunui oficialiose priėmimo taisyklėse bei kontaktų puslapyje.",
+      "url": "https://smk.lt/kontaktai/"
+    },
+    {
+      "question": "Ar yra stipendijų ar nuolaidų?",
+      "answer": "SMK taiko pažangumo, skatinamąsias, partnerystės ir tikslines stipendijas, taip pat kai kuriems atvejams studijų kainos sumažinimą.",
+      "url": "https://smk.lt/studentams/stipendijos/"
+    },
+    {
+      "question": "Ar galima stoti į aukštesnį kursą?",
+      "answer": "Taip, asmenys po ankstesnių studijų, profesinio mokymo ar trumpojo ciklo studijų gali pretenduoti į aukštesnius kursus konkurso būdu.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Kaip stoti į SMK?",
+      "answer": "Stoti į SMK galima per SMK priėmimo portalą arba atvykus į priėmimo komisiją. Daugiau informacijos rasi stojimo puslapyje.",
+      "url": "https://smk.lt/stojimas/"
+    },
+    {
+      "question": "Kur rasti priėmimo informaciją?",
+      "answer": "Išsami priėmimo informacija pateikiama SMK priėmimo puslapyje.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Koks yra stojimo mokestis?",
+      "answer": "Registracijos įmoka stojant yra 70 EUR.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Kada vyksta atskirasis priėmimas?",
+      "answer": "Atskirasis priėmimas į mokamas studijų vietas vyksta nuo 2026-03-01 iki 2026-09-25.",
+      "url": "https://smk.lt/priemimas/"
+    },
+    {
+      "question": "Kur vyksta studijos?",
+      "answer": "SMK studijos vykdomos Vilniuje, Kaune ir Klaipėdoje.",
+      "url": "https://smk.lt/apiemus/"
+    },
+    {
+      "question": "Kur rasti studijų programas?",
+      "answer": "Visas studijų programas rasi pagrindiniame studijų programų puslapyje.",
+      "url": "https://smk.lt/studiju-programos/"
+    },
+    {
+      "question": "Kur rasti kontaktus?",
+      "answer": "Kontaktinę informaciją gali rasti oficialiame SMK kontaktų puslapyje.",
+      "url": "https://smk.lt/kontaktai/"
+    },
+    {
+      "question": "Kur prisijungti prie Moodle?",
+      "answer": "Prisijungti prie Moodle gali per oficialią mokymosi sistemos nuorodą.",
+      "url": "https://moodle.smk.lt/"
+    },
+    {
+      "question": "Kur prisijungti prie Classter?",
+      "answer": "Prisijungti prie studentų sistemos gali per Classter nuorodą.",
+      "url": "https://studentams.smk.lt/"
+    },
+    {
+      "question": "Kur rasti stipendijų informaciją?",
+      "answer": "Informaciją apie stipendijas rasi studentų stipendijų puslapyje.",
+      "url": "https://smk.lt/studentams/stipendijos/"
+    }
+  ],
+   "study_prices_lt": [
+  {
+    "name": "Ateities verslas ir dirbtinis intelektas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Bendrosios praktikos slauga",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Estetinė kosmetologija",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Finansų ir investicijų valdymas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Gyvenimo kokybės vadyba",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Informacijos ir kibernetinė sauga",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Kompiuteriniai žaidimai ir animacija",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Kūrybinis rašymas ir komunikacija",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Kūrybos ir mados vadyba",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Mados ir stiliaus vadyba",
+    "semester_price": "1450 Eur",
+    "year_price": "2900 Eur"
+  },
+  {
+    "name": "Marketingas ir reklamos kūrimas",
+    "semester_price": "1450 Eur",
+    "year_price": "2900 Eur"
+  },
+  {
+    "name": "Organizacijų tvarumas ir inovacijos",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Organizacijų vadyba ir lyderystė",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Programavimas ir multimedija",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Projektų vadyba",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Renginių prodiusavimas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Restoranų ir viešbučių vadyba",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Skaitmeninė komunikacija",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Skaitmeninio turinio kūrimas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Tarptautinė prekyba ir muitinės logistika",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Tarptautinis verslas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Teisė",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Transporto ir logistikos verslas",
+    "semester_price": "1450 Eur",
+    "year_price": "2900 Eur"
+  },
+  {
+    "name": "Turizmas ir poilsis",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Verslo kūrimas ir valdymas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Video kūryba ir medijos",
+    "semester_price": "1825 Eur",
+    "year_price": "3650 Eur"
+  },
+  {
+    "name": "Vizualinis dizainas",
+    "semester_price": "1825 Eur",
+    "year_price": "3650 Eur"
+  }
+],
+"study_prices_en": [
+  {
+    "name": "Ateities verslas ir dirbtinis intelektas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Bendrosios praktikos slauga",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Estetinė kosmetologija",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Finansų ir investicijų valdymas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Informacijos ir kibernetinė sauga",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Marketingas ir reklamos kūrimas",
+    "semester_price": "1450 Eur",
+    "year_price": "2900 Eur"
+  },
+  {
+    "name": "Organizacijų tvarumas ir inovacijos",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Programavimas ir multimedija",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Projektų vadyba",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Renginių prodiusavimas",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  },
+  {
+    "name": "Skaitmeninė komunikacija",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  }
+],
+"short_cycle_programs": [
+  {
+    "name": "Programinės įrangos testavimas",
+    "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+    "state_code": "5701BX006",
+    "duration_nl": "1,5 metų",
+    "duration_nls": "1,5 metų",
+    "qualification": "Testuotojas, LTKS V",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Programavimas",
+    "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+    "state_code": "5701BX010",
+    "duration_nl": "1,5 metų",
+    "duration_nls": "1,5 metų",
+    "qualification": "Programuotojas, LTKS V",
+    "semester_price": "1675 Eur",
+    "year_price": "3350 Eur"
+  },
+  {
+    "name": "Kelionių vadovas",
+    "city_options": ["Vilnius", "Kaunas", "Klaipėda"],
+    "state_code": "6701LX002",
+    "duration_nl": "1,5 metų",
+    "duration_nls": "1,5 metų",
+    "qualification": "Kelionių vadovas, LTKS V",
+    "semester_price": "1425 Eur",
+    "year_price": "2850 Eur"
+  }
+],
+"professional_training": {
+  "summary": "Profesinis mokymas skirtas asmenims, norintiems įgyti kvalifikaciją ar tam tikram darbui reikalingą kompetenciją.",
+  "entry_requirement": "Ne žemesnis kaip vidurinis išsilavinimas arba jam prilygintas.",
+  "forms": [
+    "Pirminis profesinis mokymas",
+    "Tęstinis profesinis mokymas"
+  ],
+  "duration_summary": "1-2 m.; 6-9 mėn.",
+  "qualification_awarded": "Profesinio mokymo diplomas",
+  "programs": [
+    {
+      "name": "Java programuotojas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2900 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "2000 Eur"
+    },
+    {
+      "name": ".NET programuotojas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2900 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "2000 Eur"
+    },
+    {
+      "name": "Programinės įrangos testuotojas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2900 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "2000 Eur"
+    },
+    {
+      "name": "Jaunesnysis sistemų administratorius",
+      "primary_duration": "1,5 m.",
+      "primary_price": "4000 Eur",
+      "continuing_duration": "10 mėn.",
+      "continuing_price": "2300 Eur"
+    },
+    {
+      "name": "Multimedijos technikas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "3000 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "2100 Eur"
+    },
+    {
+      "name": "Kosmetikas",
+      "primary_duration": "1,5 m.",
+      "primary_price": "4000 Eur",
+      "continuing_duration": "10 mėn.",
+      "continuing_price": "2300 Eur"
+    },
+    {
+      "name": "Slaugytojo padėjėjas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "3000 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "2100 Eur"
+    },
+    {
+      "name": "Masažuotojas",
+      "primary_duration": "1,5 m.",
+      "primary_price": "4000 Eur",
+      "continuing_duration": "10 mėn.",
+      "continuing_price": "2400 Eur"
+    },
+    {
+      "name": "Nekilnojamo turto brokeris",
+      "primary_duration": "6 mėn.",
+      "primary_price": "1900 Eur",
+      "continuing_duration": null,
+      "continuing_price": null
+    },
+    {
+      "name": "E-pardavėjas konsultantas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2500 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "1700 Eur"
+    },
+    {
+      "name": "Apskaitininkas",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2500 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "1700 Eur"
+    },
+    {
+      "name": "Renginių ir poilsio paslaugų organizatorius",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2300 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "1600 Eur"
+    },
+    {
+      "name": "Ekspeditorius",
+      "primary_duration": "9 mėn.",
+      "primary_price": "2300 Eur",
+      "continuing_duration": "6 mėn.",
+      "continuing_price": "1600 Eur"
+    },
+    {
+      "name": "Maketuotojas",
+      "primary_duration": "6 mėn.",
+      "primary_price": "1900 Eur",
+      "continuing_duration": null,
+      "continuing_price": null
+    }
+  ]
+}
+}
